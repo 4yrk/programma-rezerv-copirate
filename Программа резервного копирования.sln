@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Программа резервного копирования", "Программа резервного копирования\Программа резервного копирования.csproj", "{BFB022A6-CCED-4A8E-BEC4-336C94061271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB022A6-CCED-4A8E-BEC4-336C94061271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB022A6-CCED-4A8E-BEC4-336C94061271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB022A6-CCED-4A8E-BEC4-336C94061271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB022A6-CCED-4A8E-BEC4-336C94061271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D2A5C8-9308-4F0C-A891-179906E33806}
+	EndGlobalSection
+EndGlobal
